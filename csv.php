@@ -9,7 +9,7 @@
             <div class="col-lg-6 col-7">
               <nav aria-label="breadcrumb" class="d-none d-lg-inline-block ml-md-4">
                 <ol class="breadcrumb breadcrumb-links breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home text-white"></i> Home</a></li>
+                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home text-white"></i>Home</a></li>
                     <li class="breadcrumb-item active" aria-current="page">CSV</li>
                 </ol>
               </nav>
